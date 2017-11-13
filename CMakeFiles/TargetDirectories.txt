@@ -1,0 +1,3 @@
+/home/yanxj/code/camshift/CMakeFiles/rebuild_cache.dir
+/home/yanxj/code/camshift/CMakeFiles/edit_cache.dir
+/home/yanxj/code/camshift/CMakeFiles/main.dir
